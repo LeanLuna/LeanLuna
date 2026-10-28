@@ -83,7 +83,7 @@ Describe the purpose and impact of the project.
 - Email: [you@example.com](mailto:you@example.com)
 -->
 
-## Philosofia
+## Philosophy
 
 Creo en:
 - construir sistemas útiles
